@@ -1,0 +1,6 @@
+C:\Ankush\VisualStudioWorkspaces\SyslogHandler\SyslogMover\bin\Debug\SyslogMover.exe.config
+C:\Ankush\VisualStudioWorkspaces\SyslogHandler\SyslogMover\bin\Debug\SyslogMover.exe
+C:\Ankush\VisualStudioWorkspaces\SyslogHandler\SyslogMover\bin\Debug\SyslogMover.pdb
+C:\Ankush\VisualStudioWorkspaces\SyslogHandler\SyslogMover\obj\Debug\SyslogMover.csprojResolveAssemblyReference.cache
+C:\Ankush\VisualStudioWorkspaces\SyslogHandler\SyslogMover\obj\Debug\SyslogMover.exe
+C:\Ankush\VisualStudioWorkspaces\SyslogHandler\SyslogMover\obj\Debug\SyslogMover.pdb
